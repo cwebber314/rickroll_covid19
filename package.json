@@ -1,0 +1,25 @@
+{
+  "name": "rickroll_covid",
+  "version": "1.0.0",
+  "description": "To run:\r ```\r heroku local web\r ```",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwebber314/rickroll_covid19.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwebber314/rickroll_covid19/issues"
+  },
+  "homepage": "https://github.com/cwebber314/rickroll_covid19#readme"
+}
